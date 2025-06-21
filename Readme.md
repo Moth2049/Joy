@@ -1,0 +1,1 @@
+Adaptive Feedback is worked fine by wireless connection
