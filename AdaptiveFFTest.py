@@ -1,4 +1,3 @@
-#Requires wired connection to a compatible device
 import time
 from evdev import InputDevice, ecodes, ff
 
