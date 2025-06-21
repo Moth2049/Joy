@@ -12,4 +12,6 @@ ff_types = {
      ecodes.FF_CUSTOM,
  }
 
+***Noted*** Wireless is only worked with humble type!!!
+
 AdaptiveFFTest.py is allow you to input vibration intensity between 0-65535 or 0x0000-0xFFFF (minimum typically at int 300)

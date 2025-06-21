@@ -53,3 +53,15 @@ while True:
     except Exception as e:
         print(f"⚠️ Error: {e}")
         break
+
+# ff_types = {
+#     ecodes.FF_CONSTANT,
+#     ecodes.FF_PERIODIC,
+#     ecodes.FF_RAMP,
+#     ecodes.FF_SPRING,
+#     ecodes.FF_FRICTION,
+#     ecodes.FF_DAMPER,
+#     ecodes.FF_RUMBLE,
+#     ecodes.FF_INERTIA,
+#     ecodes.FF_CUSTOM,
+# }
